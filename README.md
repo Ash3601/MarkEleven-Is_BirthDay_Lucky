@@ -5,3 +5,5 @@ This app take users birthday and lucky number as input and calculate if the sum 
 > Added model to this app for privacy notice so please wait for 5 seconds for model to show.
 
 Used vanilla JS, css and html5 for this app.
+
+[Try it here] (https://ash3601.github.io/MarkEleven-Is_BirthDay_Lucky/)
